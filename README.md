@@ -1,0 +1,3 @@
+# git-demo
+This is my first git demo repository 
+Author - Amol Kamble
